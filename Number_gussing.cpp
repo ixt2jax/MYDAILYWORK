@@ -21,5 +21,5 @@ int main(){
             cout<<"You Guessed a Lower Number\nTry again!\n";
         }
     }
-    cout<<"Congrats You gussed the correct number";
+    cout<<"Congrats! You gussed the correct number.";
 }
